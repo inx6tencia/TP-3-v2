@@ -1,0 +1,16 @@
+$ git pull origin front-react
+From https://github.com/inx6tencia/TP-3-v2
+ * branch            front-react -> FETCH_HEAD
+Updating 1721943..74cf6f3
+Fast-forward
+ react.js | 5 +++++
+ 1 file changed, 5 insertions(+)
+ create mode 100644 react.js
+
+Alumno@2CI240A6411D964 MINGW32 /c/tp-3-v2/git (master)
+$ git push
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/inx6tencia/TP-3-v2.git
+   1721943..74cf6f3  master -> master
+
+
